@@ -2,11 +2,11 @@
 
 <h1 align="center"></h1>
 <p> 
-### 🌱 Hi there, I'm Parisa Jahanian 👋 
+### 🌱 Hi there,👋 I'm Parisa Jahanian  
 
 </br>
 </br>
-[![My LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/parisajahanian/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parisajahanian&label=Profile%20views&color=0e75b6&style=flat" alt="parisajahanian" /> </p>
 
 - 🔭 I’m currently working on [GSS company](https://gssint.com/en/)
 - 📫 How to reach me **p.jahaniiian@gmail.com**
